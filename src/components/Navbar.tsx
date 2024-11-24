@@ -14,7 +14,7 @@ const Navbar: React.FC<Props> = ({ onAdminClick }) => {
         <div className="flex justify-between h-16 items-center">
           <div className="flex items-center">
             <h1 className="cursive text-3xl font-bold text-primary-600">
-              Healthy Jeewan
+              Healthy Jeevan @Shikha's Kitchen
             </h1>
           </div>
 
