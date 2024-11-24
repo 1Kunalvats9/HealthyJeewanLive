@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h2 className="cursive text-2xl font-bold text-primary-600 mb-4">
-              Healthy Jeewan
+              Healthy Jeevan @Shikha's Kitchen
             </h2>
             <p className="text-gray-600">
               Bringing healthy and delicious recipes to your kitchen with love and care.
