@@ -40,21 +40,21 @@ const Footer: React.FC = () => {
             <h3 className="font-semibold text-gray-900 mb-4">Connect With Us</h3>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://www.instagram.com/healthy_jeevankaushik?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
                 className="text-gray-600 hover:text-primary-600 transition-colors"
                 aria-label="Instagram"
               >
                 <Instagram className="h-6 w-6" />
               </a>
               <a
-                href="#"
+                href="https://youtube.com/@healthyjeevankaushik1782?si=xytb0YsLYtXx82is"
                 className="text-gray-600 hover:text-primary-600 transition-colors"
                 aria-label="YouTube"
               >
                 <Youtube className="h-6 w-6" />
               </a>
               <a
-                href="#"
+                href="https://www.facebook.com/profile.php?id=100085016113903&ref=xav_ig_profile_web"
                 className="text-gray-600 hover:text-primary-600 transition-colors"
                 aria-label="Facebook"
               >
