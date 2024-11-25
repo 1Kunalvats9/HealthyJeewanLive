@@ -11,7 +11,7 @@ const Navbar: React.FC<Props> = ({ onAdminClick }) => {
   return (
     <nav className="bg-white shadow-lg sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16 items-center p-4">
+        <div className="flex justify-between h-16 items-center py-4">
           <div className="flex items-center">
             <h1 className="cursive text-xl font-bold text-primary-600 md:text-3xl">
               Healthy Jeevan @Shikha's Kitchen
