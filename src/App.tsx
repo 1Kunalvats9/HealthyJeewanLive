@@ -114,6 +114,53 @@ const initialRecipes = [
     youtubeLink: "https://youtu.be/ew_4Yy9hPbo?si=FQhY74vR43_VU7r_",
     embedLink: "https://www.youtube.com/embed/ew_4Yy9hPbo?si=oHbdAA88BPSUXYVO"
   },
+  {
+    id: 10,
+    title: "गुड की सेव को इस तरीके से बनाओगे तो मार्केट से नही लाओगे। एक बार में ही ढेर सारी बनाएं",
+    category: "Snacks",
+    description:  "Gud Ki Sev is a traditional Indian sweet snack made with crispy, golden sev (thin noodles) coated in a luscious syrup of jaggery (gud) and ghee.",
+    recipe:"**Homemade Gud Ki Sev Recipe**\n\n*Ingredients:*\n•⁠  ⁠1 cup sev\n•⁠  ⁠1/2 cup grated jaggery\n•⁠  ⁠2 tbsp ghee\n•⁠  ⁠1/4 tsp cardamom powder (optional)\n•⁠  ⁠Chopped dry fruits (optional)\n\n*Instructions:*\n\n1.⁠ ⁠*Fry the Sev*: Heat ghee in a pan and fry the sev until golden and crisp. Drain and set aside.\n2.⁠ ⁠*Make the Syrup*: In a separate pan, melt jaggery with 2 tbsp water over medium heat, stirring until it forms a thick syrup.\n3.⁠ ⁠*Combine*: Pour the hot syrup over the fried sev and toss until evenly coated. Optionally, add dry fruits and cardamom powder.\n4.⁠ ⁠*Cool*: Let the mixture cool and harden. Break into pieces and serve.\n\nEnjoy your sweet, crunchy Gud Ki Sev!"
+,
+    imageUrl: "https://i.ytimg.com/vi/ICdaPiM0V1E/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAoAKigIMCAAQARgyIGUoHjAP&rs=AOn4CLADA0wQYxmI3mtLZO2VDzwe5VEcnA",
+    youtubeLink: "https://youtu.be/ICdaPiM0V1E?si=H1rO6GOiEpcYudcT",
+    embedLink: "https://www.youtube.com/embed/ICdaPiM0V1E?si=cTrV70ZRNDAWh_Tm"
+  },
+  {
+    id: 11,
+    title:  "sirf 3 bread se dher sare gulab jaamun Bina Mawa k bina paneer ke",
+    category: "Desserts",
+    description:  "Gulab Jamun is a delicious and easy-to-make variation of the classic Gulab Jamun, using bread slices instead of the traditional dough"
+    ,
+    recipe:"Bread Ke Gulab Jamun (Without Mawa or Paneer)\n\nIngredients:\n4 slices white bread (edges removed)\n1/4 cup milk\n2 tbsp all-purpose flour (optional)\n1/4 tsp cardamom powder\n1/4 tsp baking soda\nGhee/oil for frying\n\nFor Sugar Syrup:\n1 cup sugar\n1 cup water\n2-3 cardamom pods\nSaffron strands (optional)\n\nInstructions:\n1. *Make Syrup*: Combine sugar, water, cardamom, and saffron in a pan. Simmer for 5-7 minutes until it thickens slightly. Let it cool.\n2. *Prepare Dough*: Soak bread in milk, mash it into a smooth dough. Add cardamom, baking soda, and flour (if using). Shape into small balls.\n3. *Fry*: Heat ghee/oil on low-medium heat. Fry the balls until golden brown and crisp.\n4. *Soak*: Drop the fried gulab jamun into warm sugar syrup. Let them soak for 30 minutes.\n\nServe and enjoy your soft, syrupy Bread Ke Gulab Jamun!"
+,
+    imageUrl: "https://i.ytimg.com/vi/FAb03CpO0Hw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_TAYLpMdm8OZguu64S-R4uPmZoQ",
+    youtubeLink: "https://youtu.be/FAb03CpO0Hw?si=qevTnMjW5bm4oxhu",
+    embedLink: "https://www.youtube.com/embed/FAb03CpO0Hw?si=jBpPbBg-pbyf2bwG"
+  },
+  {
+    id: 12,
+    title:  "बिना झारा बिना किसी झंझट बनाए ।मोतीचूर के लड्डू। छोटी छोटी जरुरी tips के साथ।विल्कुल हलवाई स्टाईल",
+    category: "Desserts",
+    description: "Chur Ke Ladoo is a delicious and traditional Indian sweet made from finely crushed boondi (tiny, fried gram flour droplets) that are soaked in a rich sugar syrup and shaped into round, melt-in-the-mouth laddoos.",
+    recipe:"Moti Chur Ke Ladoo Recipe\n\nIngredients:\n1 cup besan (gram flour)\n1/4 tsp baking soda (optional)\n1/4 tsp cardamom powder\nGhee/oil for frying\n1 cup sugar\n1/2 cup water\n2-3 crushed cardamom pods\nSaffron strands (optional)\nChopped dry fruits (optional)\n\nInstructions:\n1. *Make Boondi*: Mix besan with water to form a smooth batter. Heat ghee/oil, and fry small droplets of batter into golden, crispy boondi. Drain and set aside.\n2. *Prepare Sugar Syrup*: In a pan, simmer sugar, water, crushed cardamom, and saffron until it thickens slightly (one-thread consistency). Let it cool slightly.\n3. *Soak Boondi*: Add the fried boondi to the warm syrup. Let it soak for 15-20 minutes.\n4. *Shape Laddoos*: Once boondi softens, mix in cardamom powder and ghee. Shape the mixture into small laddoos.\n5. *Serve*: Garnish with dry fruits, if desired, and let the laddoos set.\n\nEnjoy your Moti Chur Ke Laddo – a perfect sweet for festivals and celebrations!"
+,
+    imageUrl: "https://i.ytimg.com/vi/MYk2XZKmol0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVYwuEsMp6DLqkZjsNNvU7njPFUw",
+    youtubeLink: "https://youtu.be/MYk2XZKmol0?si=zb2i_zA1U1rRPRDL",
+    embedLink: "https://www.youtube.com/embed/MYk2XZKmol0?si=fVSJmzX4LiNkNvlW"
+  },
+  {
+    id: 13,
+    title:  "market style सॉफ्ट और जालीदार ढोकला बनाने की बिल्कुल आसान रेसिपी",
+    category: "Breakfast",
+    description: "Kaman Dhokla is a soft, spongy, and flavorful steamed savory snack from Gujarat, India. Unlike regular dhokla, Kaman Dhokla is a special variation that incorporates a slightly tangy and spiced batter, creating a unique twist on the traditional recipe"
+,
+    recipe:"*Homemade Kaman Dhokla Recipe*\n\n### Ingredients:\n•⁠  ⁠1 cup rice\n•⁠  ⁠1/4 cup urad dal (soaked)\n•⁠  ⁠1/2 tsp ginger-chili paste\n•⁠  ⁠1/4 tsp turmeric\n•⁠  ⁠1/2 tsp baking soda\n•⁠  ⁠1-2 tbsp lemon juice or yogurt\n•⁠  ⁠Salt to taste\n•⁠  ⁠Water as needed\n\n*For Tempering:*\n•⁠  ⁠1 tbsp oil\n•⁠  ⁠1 tsp mustard seeds\n•⁠  ⁠1 tsp sesame seeds\n•⁠  ⁠1-2 green chilies, slit\n•⁠  ⁠8-10 curry leaves\n•⁠  ⁠1/2 tsp hing\n•⁠  ⁠Fresh coriander, grated coconut (optional, for garnish)\n\n### Instructions:\n\n1.⁠ ⁠*Prepare the Batter*: Grind soaked rice and urad dal to a smooth batter. Ferment for 6-8 hours.\n2.⁠ ⁠*Steam*: Add baking soda, ginger-chili paste, turmeric, lemon juice, and salt to the batter. Pour into a greased tray and steam for 15-20 minutes until cooked through.\n3.⁠ ⁠*Tempering*: Heat oil, splutter mustard seeds, and fry sesame seeds, chilies, curry leaves, and hing. Pour over the steamed dhokla.\n4.⁠ ⁠*Garnish & Serve*: Garnish with coriander and coconut, then cut into pieces and serve with chutneys.\n\nEnjoy this soft, spongy *Kaman Dhokla* – a perfect snack or breakfast!"
+,
+    imageUrl: "https://i.ytimg.com/vi/o261f9DUDpc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIa2keq-9aWWvgmM_gfDxispldEA",
+    youtubeLink: "https://youtu.be/o261f9DUDpc?si=_mwkQGYuifCwu8vP",
+    embedLink: "https://www.youtube.com/embed/o261f9DUDpc?si=5MhCGxR1zH8AnTNL"
+  },
+  
 ];
 
 function App() {
