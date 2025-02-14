@@ -26,7 +26,7 @@ const Navbar: React.FC<Props> = ({ onAdminClick }) => {
             <a href="#recipes" className="text-gray-600 hover:text-primary-600 transition-colors">
               Recipes
             </a>
-            <a href="#about" className="text-gray-600 hover:text-primary-600 transition-colors">
+            <a href="#footer" className="text-gray-600 hover:text-primary-600 transition-colors">
               About
             </a>
             <button
@@ -67,7 +67,7 @@ const Navbar: React.FC<Props> = ({ onAdminClick }) => {
                 Recipes
               </a>
               <a
-                href="#about"
+                href="#footer"
                 className="text-gray-600 hover:text-primary-600 transition-colors"
                 onClick={() => setIsMenuOpen(false)}
               >
